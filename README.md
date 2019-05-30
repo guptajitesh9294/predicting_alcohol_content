@@ -1,7 +1,7 @@
 # predicting_alcohol_content
 
-Our model is to predict the alcohol content in a wine.
-Wine Quality Dataset
+Our model is to predict the alcohol content in a Wine Quality Dataset.In this model we are implementing PCA on the data set and maintaining 90% pca scores,Applying hierarchical clustering and k mean clustering and group them into 6 clusters
+then select all the records of cluster 4 and then combine upto with PCs
 
 package: Pandas, Numpy, Matplotlib, Seaborn,
 Input variables (based on physicochemical tests):
